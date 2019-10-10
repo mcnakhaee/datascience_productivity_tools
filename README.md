@@ -7,13 +7,43 @@ This **repository** contains a list of tools that can help data scientist make t
 
 
 
+#### Editing Markdown Files
+
+Typora
 
 
-#### Hosting
+
+#### Editing Jupyter Notebooks
+
+nteract
+
+
+
+#### Keeping Track of everything
+
+Trello
+
+#### Free Platforms to Run your Code 
+
+RStudio Cloud
+
+Google  Colab
+
+
+
+#### Tracking your experiments
+
+
+
+
+
+
+
+#### Create a Website
 
 R= Hugo(Academic)+Netlify
 
 
 
-**Reporting**
+
 
